@@ -1,4 +1,4 @@
-# ArithmeticCompilerForGradingSystem
+# CompilerForGradingSystem
 
 A compiler that processes statements written in a particular programming language and turns them into machine language or "code" that a computer's processor uses.
 •	 I have developed a student grading program compiler using Python in Python 3.8 IDE.  
